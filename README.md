@@ -1,5 +1,7 @@
 Training Mask RCNN for Automated phenotyping on tiger pufferfish
 
+Modifed codes from: https://github.com/matterport/Mask_RCNN
+
 Publication: 
 Lin, Z., Yoshikawa, S., Hamasaki, M., Kikuchi, K., Hosoya, S., 2025. Automated
 phenotyping empowered by deep learning for genomic prediction of body size in the
